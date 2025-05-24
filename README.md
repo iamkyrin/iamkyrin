@@ -9,6 +9,7 @@ I'm a junior front-end developer passionate about building clean, user-friendly 
 - Git & GitHub
 - VS Code
 - Figma (Basic UI Design)
+- Python(Basics)
 
 ## 😎 Currently Learning
 - React.js (Fundamentals & Hooks)
