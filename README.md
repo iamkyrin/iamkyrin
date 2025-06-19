@@ -19,7 +19,7 @@ I'm a junior front-end developer passionate about building clean, user-friendly 
 
 Here are some of the projects I've built or am currently working on:
 
-- **[PixelWork]((https://pixelwork.netlify.app))** – This is an anime built website using a public API (Currently working on)
+- **[PixelWork]([https://pixelwork.netlify.app])** – This is an anime built website using a public API (Currently working on)
 - **[PixelChess](#)** – This is a chess website (Currently Working On)
 - More coming soon...
 
