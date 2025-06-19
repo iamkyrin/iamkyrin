@@ -5,21 +5,21 @@ I'm a junior front-end developer passionate about building clean, user-friendly 
 ## 🧰 Tech Stack
 
 - HTML | CSS | JavaScript
-- React.js (Basic)
+- React.js
 - Git & GitHub
 - VS Code
 - Figma (Basic UI Design)
-- Python(Basics)
+- Python (Basics)
 
 ## 😎 Currently Learning
-- React.js (Fundamentals & Hooks)
+- Node.js
 - Git & GitHub for version control
 
 ## 💻 Projects
 
 Here are some of the projects I've built or am currently working on:
 
-- **[PixelWork](#)** – This is an anime built website using a public API (Currently working on)
+- **[PixelWork]((https://pixelwork.netlify.app))** – This is an anime built website using a public API (Currently working on)
 - **[PixelChess](#)** – This is a chess website (Currently Working On)
 - More coming soon...
 
@@ -31,7 +31,7 @@ I’m always experimenting with new ideas and pushing myself with small challeng
 - Build a portfolio website
 - Get a front-end job
 - Contribute to open source
-- Master React and learn TypeScript
+- Master Node.js and learn TypeScript
 - Land an internship/junior dev role
 
 ## 🤝 Let's Connect
