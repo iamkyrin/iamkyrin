@@ -19,8 +19,8 @@ I'm a junior front-end developer passionate about building clean, user-friendly 
 
 Here are some of the projects I've built or am currently working on:
 
-- **[PixelWork](https://pixelwork.netlify.app)** – This is an anime built website using a public API (Currently working on)
-- **[PixelChess](#)** – This is a chess website (Currently Working On)
+- **[PixelWork](https://pixelwork.netlify.app)** – This is an anime built website using a public API -> Jikan API
+- **[Designo](https://designoportfolio-website.netlify.app)** – This is a Multi Page website that is the solution to the challenge on **Front-end Mentor's** Website
 - More coming soon...
 
 I’m always experimenting with new ideas and pushing myself with small challenges to learn something new!
@@ -36,8 +36,8 @@ I’m always experimenting with new ideas and pushing myself with small challeng
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pixelpawn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-walters-93ab49348/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamkyrin)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iamkyrin)
 
 
