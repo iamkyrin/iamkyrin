@@ -6,7 +6,7 @@ I'm a junior front-end developer passionate about building clean, user-friendly 
 
 - HTML | CSS | JavaScript
 - React.js
-- Git & GitHub
+- Tailwindcss
 - VS Code
 - Figma (Basic UI Design)
 - Python (Basics)
