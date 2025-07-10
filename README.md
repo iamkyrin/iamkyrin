@@ -1,18 +1,21 @@
 # 🙂 Yo, I'm Joshua.
 
-I'm a junior front-end developer passionate about building clean, user-friendly interfaces. While I don't have professional experience yet, I'm actively learning and working on personal projects to sharpen my skills and grow as a developer.
+I'm a junior MERN-Stack developer passionate about building clean, user-friendly interfaces. While I don't have professional experience yet, I'm actively learning and working on personal projects to sharpen my skills and grow as a developer.
 
 ## 🧰 Tech Stack
 
 - HTML | CSS | JavaScript
 - React.js
 - Tailwindcss
-- VS Code
+- Node.js
+- Express.js
+- MongoDB
+- Vs Code
 - Figma (Basic UI Design)
 - Python (Basics)
 
 ## 😎 Currently Learning
-- Node.js
+- Flask/Django
 - Git & GitHub for version control
 
 ## 💻 Projects
@@ -29,7 +32,7 @@ I’m always experimenting with new ideas and pushing myself with small challeng
 ## 📈 Goals for 2025
 
 - Build a portfolio website
-- Get a front-end job
+- Get a MERN Stack job
 - Contribute to open source
 - Master Node.js and learn TypeScript
 - Land an internship/junior dev role
