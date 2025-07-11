@@ -1,50 +1,65 @@
-# 🙂 Yo, I'm Joshua.
+# 👋 Joshua Walters  
+**MERN Stack Developer | UI Enthusiast | Continuous Learner**  
 
-I'm a junior MERN-Stack developer passionate about building clean, user-friendly interfaces. While I don't have professional experience yet, I'm actively learning and working on personal projects to sharpen my skills and grow as a developer.
+[![Portfolio](https://img.shields.io/badge/✨_Portfolio-000000?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joshua-walters-93ab49348)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/iamkyrin)
 
-## 🧰 Tech Stack
+> *"Building pixel-perfect interfaces with clean code and modern stacks."*  
 
-- HTML | CSS | JavaScript
-- React.js
-- Tailwindcss
-- Node.js
-- Express.js
-- MongoDB
-- Vs Code
-- Figma (Basic UI Design)
-- Python (Basics)
+---
 
-## 😎 Currently Learning
-- Flask/Django
-- Git & GitHub for version control
+## 🛠️ Core Stack  
 
-## 💻 Projects
+### **Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-Here are some of the projects I've built or am currently working on:
+### **Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-- **[PixelWork](https://pixelwork.netlify.app)** – This is an anime built website using a public API -> Jikan API
-- **[Designo](https://designoportfolio-website.netlify.app)** – This is a Multi Page website that is the solution to the challenge on **Front-end Mentor's** Website
-- More coming soon...
+### **Tools**  
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-I’m always experimenting with new ideas and pushing myself with small challenges to learn something new!
+---
 
+## 🚀 Featured Projects  
 
-## 📈 Goals for 2025
+| Project | Live Demo | Tech Stack |  
+|---------|-----------|------------|  
+| **[PixelWork](https://pixelwork.netlify.app)** – Anime Discovery Platform | [![Live](https://img.shields.io/badge/🌐_Live_Demo-FF4D5B?style=flat)](https://pixelwork.netlify.app) | React, Jikan API, Tailwind |  
+| **[Designo](https://designoportfolio-website.netlify.app)** – Multi-page Agency Site (Frontend Mentor) | [![Live](https://img.shields.io/badge/🌐_Live_Demo-8A2BE2?style=flat)](https://designoportfolio-website.netlify.app) | HTML, CSS, JavaScript |  
 
-- Build a portfolio website
-- Get a MERN Stack job
-- Contribute to open source
-- Master Node.js and learn TypeScript
-- Land an internship/junior dev role
+---
 
-## 🤝 Let's Connect
+## 📚 Active Learning  
+- **Python Frameworks**: Flask & Django  
+- **Version Control**: Advanced Git/GitHub workflows  
+- **TypeScript**: Migrating projects for type safety  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-walters-93ab49348/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iamkyrin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/iamkyrin)
+---
 
+## 🎯 2025 Roadmap  
+1. **Portfolio V2**: Showcase 5+ production-grade projects  
+2. **Open Source**: Contribute to 3+ meaningful repositories  
+3. **Career Growth**: Secure a junior MERN developer role  
+4. **Tech Expansion**: Master Docker & AWS fundamentals  
 
-Thanks for stopping by! 👨‍💻
+---
 
+## 📬 Let's Collaborate  
+I’m open to:  
+- **Internship opportunities**  
+- **Freelance projects**  
+- **Hackathon teams**  
 
+📧 *Reach me at: [your.email@domain.com](mailto:your.email@domain.com)*  
 
+---
+
+> *"From junior to journeyman – coding my way through the stack, one component at a time."*  
