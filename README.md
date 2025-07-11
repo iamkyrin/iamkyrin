@@ -33,7 +33,7 @@
 | Project | Live Demo | Tech Stack |  
 |---------|-----------|------------|  
 | **[PixelWork](https://pixelwork.netlify.app)** – Anime Discovery Platform | [![Live](https://img.shields.io/badge/🌐_Live_Demo-FF4D5B?style=flat)](https://pixelwork.netlify.app) | React, Jikan API, Tailwind |  
-| **[Designo](https://designoportfolio-website.netlify.app)** – Multi-page Agency Site (Frontend Mentor) | [![Live](https://img.shields.io/badge/🌐_Live_Demo-8A2BE2?style=flat)](https://designoportfolio-website.netlify.app) | HTML, CSS, JavaScript |  
+| **[Designo](https://designoportfolio-website.netlify.app)** – Multi-page Agency Site (Frontend Mentor) | [![Live](https://img.shields.io/badge/🌐_Live_Demo-8A2BE2?style=flat)](https://designoportfolio-website.netlify.app) | React, Tailwind |  
 
 ---
 
@@ -54,11 +54,13 @@
 
 ## 📬 Let's Collaborate  
 I’m open to:  
+- **Full-time Job opportunies**
 - **Internship opportunities**  
 - **Freelance projects**  
-- **Hackathon teams**  
+- **Hackathon teams**
 
-📧 *Reach me at: [your.email@domain.com](mailto:your.email@domain.com)*  
+
+📧 *Reach me at: [doublecalibre999@gmail.com](mailto:doublecalibre999@gmail.com)*  
 
 ---
 
