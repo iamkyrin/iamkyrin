@@ -1,67 +1,114 @@
-# 👋 Joshua Walters  
-**MERN Stack Developer | UI Enthusiast | Continuous Learner**  
+<img src="https://giffiles.alphacoders.com/132/132765.gif">
+<p align="center"><img src="https://github.com/user-attachments/assets/e26d1d6a-30ee-488e-90ca-11b3aa180148" width="100%" height="auto"/></p>
 
-[![Portfolio](https://img.shields.io/badge/✨_Portfolio-000000?style=for-the-badge&logo=vercel)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joshua-walters-93ab49348)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/iamkyrin)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=808080&size=50&center=true&vCenter=true&height=60&width=600&lines=Hi!+I'm+deadfrogs+%3C3;Welcome+to+my+profile!" alt="Title"></img>
+  </a>
+</div>
 
-> *"Building pixel-perfect interfaces with clean code and modern stacks."*  
 
----
+<img width="28%" align='right' src="https://github.com/user-attachments/assets/e78e13fd-8c84-4c21-9471-79d5374d4a15">
 
-## 🛠️ Core Stack  
 
-### **Frontend**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<h2 align="left">
+  Hi there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h2>
 
-### **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+I'm **[`deadfrogs`]**, MERN Stack Developer & a hacker and Bug Hunter. With a strong passion for technology and a diverse skill set spanning malware analysis, vulnerability assessment, bug hunting, and MERN stack development, I am committed to leveraging my expertise to safeguard digital assets and enhance cybersecurity. My goal is to not only identify and resolve security vulnerabilities but also to build resilient, scalable solutions that contribute to a more secure and efficient online community. I am driven by the challenge of staying ahead of evolving threats and continuously improving the digital landscape through innovative approaches and technical proficiency.
 
-### **Tools**  
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<details>
+  <summary>More about me</summary>
 
----
+- **Name**: deadfrogs 
+- **From**: South Africa
+- **Bug Hunter** | **MERN STACK DEVELOPER** |
+- Improving knowledge in **Webapp Vulnerabilities**
+- Lifelong learner — always exploring **everything**
+- Reach me out at **deadfroggert@proton.me**
 
-## 🚀 Featured Projects  
-
-| Project | Live Demo | Tech Stack |  
-|---------|-----------|------------|  
-| **[PixelWork](https://pixelwork.netlify.app)** – Anime Discovery Platform | [![Live](https://img.shields.io/badge/🌐_Live_Demo-FF4D5B?style=flat)](https://pixelwork.netlify.app) | React, Jikan API, Tailwind |  
-| **[Designo](https://designoportfolio-website.netlify.app)** – Multi-page Agency Site (Frontend Mentor) | [![Live](https://img.shields.io/badge/🌐_Live_Demo-8A2BE2?style=flat)](https://designoportfolio-website.netlify.app) | React, Tailwind |  
+</details>
+<br>
 
 ---
 
-## 📚 Active Learning  
-- **Python Frameworks**: Flask & Django  
-- **Version Control**: Advanced Git/GitHub workflows  
-- **TypeScript**: Migrating projects for type safety  
+<h2 id="present_status"> Present Status </h3>
+
+<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+
+👉 Still Learning Bug hunting & malware forensics.
+
+👉 Managing School.
+
+👉 Writing Some Useful Tools For Myself & Communities
+
+👉 Building & Contributing To Open Source Projects
+
+👉 Currently Learning mobile pentesting & web3 
+
+`Updating:`  Journey to Cybersecurity Specialist.
 
 ---
 
-## 🎯 2025 Roadmap  
-1. **Portfolio V2**: Showcase 5+ production-grade projects  
-2. **Open Source**: Contribute to 3+ meaningful repositories  
-3. **Career Growth**: Secure a junior MERN developer role  
-4. **Tech Expansion**: Master Docker & AWS fundamentals  
+<h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
+
+<br>
+
+<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Go" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
+      <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
+      <img src="https://img.shields.io/badge/HTML5-5D4B6C?style=for-the-badge&logo=html5&color=000000" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-2965F1?style=for-the-badge&logo=css3&color=000000" alt="CSS3" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&color=000000" alt="JavaScript" />
+      <img src="https://img.shields.io/badge/BlackArch-0A0A0A?style=for-the-badge&logo=blackarch&color=000000" alt="BlackArch" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&color=000000" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&color=000000" alt="ExpressJS" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&color=000000" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-8CC84C?style=for-the-badge&logo=node.js&color=000000" alt="NodeJS" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
+      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&color=000000" alt="VS Code" />
+  </div>
+</div>
 
 ---
 
-## 📬 Let's Collaborate  
-I’m open to:  
-- **Full-time Job opportunies**
-- **Internship opportunities**  
-- **Freelance projects**  
-- **Hackathon teams**
+
+<h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
+<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+ 
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamkyrin&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/iamkyrin/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/iamkyrin/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkyrin&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
+
+<br><br>
 
 
-📧 *Reach me at: [doublecalibre999@gmail.com](mailto:doublecalibre999@gmail.com)*  
 
----
+<h2 id="donate" align=''> Support⚡️</h2>
 
-> *"From junior to journeyman – coding my way through the stack, one component at a time."*  
+<details>
+<summary>Buy Me A Coffee</summary>
+
+<p align="center"><a href="https://buymeacoffee.com/deadfrogs?new=1"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
+
+</details>
+
+
+
+
+<p align="center">
+  <b><i>"Always Trust your Gut."</i></b>
+</p>
+<p align="center">
+<a>d</a>
+</p>
+<p align="center">
+  <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
