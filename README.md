@@ -80,7 +80,7 @@ I'm **`deadfrogs`**, MERN Stack Developer & a hacker and Bug Hunter. With a stro
 
 
 <h2 id="github_stats" align=''>GitHub Stats 👨‍💻</h2>
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+<img align="right" width="44%" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif"/>
  
   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamkyrin&theme=vision-friendly-dark&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/iamkyrin/github-readme-stats)
   [![GitHub Streak](https://streak-stats.demolab.com?user=coffinxp&theme=dark&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
