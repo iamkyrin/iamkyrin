@@ -8,7 +8,7 @@
 </div>
 
 
-<img width="28%" align='right' src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaGtibmZkNjBjam1lMmRnMTkza2VkZmhxNnMwemMxYnViZDZzdWQ3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y6aDJi4UcT2ow/source.gif">
+<img width="28%" align='right' src="https://giffiles.alphacoders.com/347/34762.gif">
 
 
 <h2 align="left">
