@@ -13,10 +13,10 @@
 
 <h2 align="left">
   Hi there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyaGtibmZkNjBjam1lMmRnMTkza2VkZmhxNnMwemMxYnViZDZzdWQ3NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/y6aDJi4UcT2ow/source.gif" width="25px"/>
 </h2>
 
-I'm **[`deadfrogs`]**, MERN Stack Developer & a hacker and Bug Hunter. With a strong passion for technology and a diverse skill set spanning malware analysis, vulnerability assessment, bug hunting, and MERN stack development, I am committed to leveraging my expertise to safeguard digital assets and enhance cybersecurity. My goal is to not only identify and resolve security vulnerabilities but also to build resilient, scalable solutions that contribute to a more secure and efficient online community. I am driven by the challenge of staying ahead of evolving threats and continuously improving the digital landscape through innovative approaches and technical proficiency.
+I'm **`deadfrogs`**, MERN Stack Developer & a hacker and Bug Hunter. With a strong passion for technology and a diverse skill set spanning malware analysis, vulnerability assessment, bug hunting, and MERN stack development, I am committed to leveraging my expertise to safeguard digital assets and enhance cybersecurity. My goal is to not only identify and resolve security vulnerabilities but also to build resilient, scalable solutions that contribute to a more secure and efficient online community. I am driven by the challenge of staying ahead of evolving threats and continuously improving the digital landscape through innovative approaches and technical proficiency.
 
 <details>
   <summary>More about me</summary>
@@ -41,11 +41,11 @@ I'm **[`deadfrogs`]**, MERN Stack Developer & a hacker and Bug Hunter. With a st
 
 👉 Managing School.
 
-👉 Writing Some Useful Tools For Myself & Communities
+👉 Writing Some Useful Tools For Myself & Communities.
 
-👉 Building & Contributing To Open Source Projects
+👉 Building & Contributing To Open Source Projects.
 
-👉 Currently Learning mobile pentesting & web3 
+👉 Currently Learning mobile pentesting & web3.
 
 `Updating:`  Journey to Cybersecurity Specialist.
 
