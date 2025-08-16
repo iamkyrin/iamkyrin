@@ -36,15 +36,15 @@ I'm **`deadfrogs`**, MERN Stack Developer & a hacker and Bug Hunter. With a stro
 
 <img width="25%" align='right' src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyemgzaWt5c3VuNHo0M3I1cW54aXN6MmdteTIzcHM1cTh6emc5bm1jeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7buh8WbaZLupolXi/source.gif">
 
-👉 Still Learning Bug hunting & malware forensics.
+- Still Learning Bug hunting & malware forensics.
 
-👉 Managing School.
+- Managing School.
 
-👉 Writing Some Useful Tools For Myself & Communities.
+- Writing Some Useful Tools For Myself & Communities.
 
-👉 Building & Contributing To Open Source Projects.
+- Building & Contributing To Open Source Projects.
 
-👉 Currently Learning mobile pentesting & web3.
+- Currently Learning mobile pentesting & web3.
 
 `Updating:`  Journey to Cybersecurity Specialist.
 
@@ -106,7 +106,7 @@ I'm **`deadfrogs`**, MERN Stack Developer & a hacker and Bug Hunter. With a stro
   <b><i>"Always Trust your Gut."</i></b>
 </p>
 <p align="center">
-<a>d</a>
+<a>🐞</a>
 </p>
 <p align="center">
   <img src="https://github.com/caerlower/caerlower/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
