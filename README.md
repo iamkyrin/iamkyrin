@@ -34,7 +34,7 @@ I'm **`deadfrogs`**, MERN Stack Developer & a hacker and Bug Hunter. With a stro
 
 <h2 id="present_status"> Present Status </h3>
 
-<img width="25%" align='right' src="https://github.com/user-attachments/assets/9c826dd0-fd72-49ba-af60-e79f64344f59">
+<img width="25%" align='right' src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyemgzaWt5c3VuNHo0M3I1cW54aXN6MmdteTIzcHM1cTh6emc5bm1jeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7buh8WbaZLupolXi/source.gif">
 
 👉 Still Learning Bug hunting & malware forensics.
 
