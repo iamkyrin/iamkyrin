@@ -15,7 +15,7 @@
   Hi there
 </h2>
 
-I'm **`deadfrogs`**, MERN Stack Developer & a hacker and Bug Hunter. With a strong passion for technology and a diverse skill set spanning malware analysis, vulnerability assessment, bug hunting, and MERN stack development, I am committed to leveraging my expertise to safeguard digital assets and enhance cybersecurity. My goal is to not only identify and resolve security vulnerabilities but also to build resilient, scalable solutions that contribute to a more secure and efficient online community. I am driven by the challenge of staying ahead of evolving threats and continuously improving the digital landscape through innovative approaches and technical proficiency.
+I'm **`deadfrogs`**, Front-end Stack Developer with a little bit of backend knowledge & a hacker and Bug Hunter. With a strong passion for technology and a diverse skill set spanning malware analysis, vulnerability assessment, bug hunting, and Front-end development, I am committed to leveraging my expertise to safeguard digital assets and enhance cybersecurity. My goal is to not only identify and resolve security vulnerabilities but also to build resilient, scalable solutions that contribute to a more secure and efficient online community. I am driven by the challenge of staying ahead of evolving threats and continuously improving the digital landscape through innovative approaches and technical proficiency.
 
 <details>
   <summary>More about me</summary>
