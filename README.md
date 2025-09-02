@@ -25,7 +25,7 @@ I'm **`deadfrogs`**, Front-end Stack Developer with a little bit of backend know
 - **Bug Hunter** | **MERN STACK DEVELOPER** |
 - Improving knowledge in **Webapp Vulnerabilities**
 - Lifelong learner — always exploring **everything**
-- Reach me out at **deadfroggert@proton.me**
+- Reach me out at **deadfrogexist@proton.me**
 
 </details>
 <br>
