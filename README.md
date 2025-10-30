@@ -10,15 +10,6 @@
 
 <img width="28%" align='right' src="https://giffiles.alphacoders.com/347/34762.gif">
 
-
-
-
-<h2 id="present_status"> Present Status </h3>
-
-<img width="25%" align='right' src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyemgzaWt5c3VuNHo0M3I1cW54aXN6MmdteTIzcHM1cTh6emc5bm1jeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7buh8WbaZLupolXi/source.gif">
-
-
-
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
 <br>
