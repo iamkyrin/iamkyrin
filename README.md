@@ -12,15 +12,6 @@
 
 
 
-<details>
-- **Name**: deadfrogs 
-- **From**: South Africa
-
-
-</details>
-<br>
-
----
 
 <h2 id="present_status"> Present Status </h3>
 
