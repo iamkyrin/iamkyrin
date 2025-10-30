@@ -11,21 +11,11 @@
 <img width="28%" align='right' src="https://giffiles.alphacoders.com/347/34762.gif">
 
 
-<h2 align="left">
-  Hi there
-</h2>
-
-I'm **`deadfrogs`**, Front-end Stack Developer with a little bit of backend knowledge & a hacker and Bug Hunter. With a strong passion for technology and a diverse skill set spanning malware analysis, vulnerability assessment, bug hunting, and Front-end development, I am committed to leveraging my expertise to safeguard digital assets and enhance cybersecurity. My goal is to not only identify and resolve security vulnerabilities but also to build resilient, scalable solutions that contribute to a more secure and efficient online community. I am driven by the challenge of staying ahead of evolving threats and continuously improving the digital landscape through innovative approaches and technical proficiency.
 
 <details>
-  <summary>More about me</summary>
-
 - **Name**: deadfrogs 
 - **From**: South Africa
-- **Bug Hunter** | **MERN STACK DEVELOPER** |
-- Improving knowledge in **Webapp Vulnerabilities**
-- Lifelong learner — always exploring **everything**
-- Reach me out at **deadfrogexist@proton.me**
+
 
 </details>
 <br>
@@ -36,19 +26,7 @@ I'm **`deadfrogs`**, Front-end Stack Developer with a little bit of backend know
 
 <img width="25%" align='right' src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyemgzaWt5c3VuNHo0M3I1cW54aXN6MmdteTIzcHM1cTh6emc5bm1jeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7buh8WbaZLupolXi/source.gif">
 
-- Still Learning Bug hunting & malware forensics.
 
-- Managing School.
-
-- Writing Some Useful Tools For Myself & Communities.
-
-- Building & Contributing To Open Source Projects.
-
-- Currently Learning mobile pentesting & web3.
-
-`Updating:`  Journey to Cybersecurity Specialist.
-
----
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
@@ -87,18 +65,6 @@ I'm **`deadfrogs`**, Front-end Stack Developer with a little bit of backend know
  <p align="left"><a href="https://github.com/iamkyrin/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkyrin&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 <br><br>
-
-
-
-<h2 id="donate" align=''> Support⚡️</h2>
-
-<details>
-<summary>Buy Me A Coffee</summary>
-
-<p align="center"><a href="https://buymeacoffee.com/deadfrogs?new=1"><img  src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/></a></p>
-
-</details>
-
 
 
 
