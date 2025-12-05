@@ -1,4 +1,4 @@
-# 👋 Hey, I'm deadfrogs
+# 👋 Hey, I'm deadfrog
 
 🎓 BSc Information Technology Student  
 💻 Front-End Developer & Python Engineer  
