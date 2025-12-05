@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Joshua
+# 👋 Hey, I'm deadfrogs
 
 🎓 BSc Information Technology Student  
 💻 Front-End Developer & Python Engineer  
