@@ -1,7 +1,7 @@
 # 👋 Hey, I'm deadfrog
 
-BSc Information Technology Student  
-Aspirining Data Scientist/Machine Learning Engineer & Front-end Developer
+BSc Information Technology 2nd year Student  
+Aspiring Data Scientist/Machine Learning Engineer & Front-end Developer
 Focused on Data, Machine Learning, and Modern Web Development
 
 ---
