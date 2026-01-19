@@ -1,6 +1,6 @@
 # Hi, I'm Kyrin
 
-BSc Information Technology (2nd Year)  
+BSc Information Technology Student (2nd Year)  
 Aspiring Data Scientist / Machine Learning Engineer & Front-end Developer  
 
 I focus on building well-structured, practical software solutions across data-driven systems and modern web applications.
