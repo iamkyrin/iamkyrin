@@ -1,40 +1,42 @@
 # 👋 Hey, I'm deadfrog
 
-🎓 BSc Information Technology Student  
-💻 Front-End Developer & Python Engineer  
-⚡ Focused on Data, Machine Learning, and Modern Web Development
+BSc Information Technology Student  
+Aspirining Data Scientist/Machine Learning Engineer & Front-end Developer
+Focused on Data, Machine Learning, and Modern Web Development
 
 ---
 
-## 🚀 About Me
+## About Me
 I’m a developer who loves building practical, clean, and impactful solutions.  
 I work comfortably across both **front-end engineering** and **Python-based data science/ML workflows**.
 
 ---
 
-## 🛠️ Core Skills
-
-### **Frontend Development**
-- React  
-- JavaScript (ES6+)  
-- HTML5 / CSS3  
-- UI/UX fundamentals & responsive design
+## Core Skills
 
 ### **Python & Data**
 - OOP (advanced)  
 - Pandas, NumPy  
 - Matplotlib  
 - scikit-learn (regression, preprocessing, model evaluation)
+- 
+### **Frontend Development**
+- React  
+- JavaScript (ES6+)  
+- HTML5 / CSS3
+- TailwindCSS
+- UI/UX fundamentals & responsive design
+
 
 ---
 
-## 📌 What I’m Working On
-- Machine learning mini-projects (notebooks + models)   
+## What I’m Working On
+- Machine learning projects (notebooks + models)   
 - Building out a more complete portfolio of IT + ML projects  
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 **Email:** deadfrogexist@proton.me  
 
 ---
