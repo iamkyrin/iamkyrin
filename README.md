@@ -1,4 +1,4 @@
-# Hi, I'm deadfrog
+# Hi, I'm Kyrin
 
 BSc Information Technology (2nd Year)  
 Aspiring Data Scientist / Machine Learning Engineer & Front-end Developer  
