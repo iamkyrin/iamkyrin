@@ -1,44 +1,69 @@
-# 👋 Hey, I'm deadfrog
+# Hi, I'm deadfrog
 
-BSc Information Technology 2nd year Student  
-Aspiring Data Scientist/Machine Learning Engineer & Front-end Developer
-Focused on Data, Machine Learning, and Modern Web Development
+BSc Information Technology (2nd Year)  
+Aspiring Data Scientist / Machine Learning Engineer & Front-end Developer  
+
+I focus on building well-structured, practical software solutions across data-driven systems and modern web applications.
 
 ---
 
 ## About Me
-I’m a developer who loves building practical, clean, and impactful solutions.  
-I work comfortably across both **front-end engineering** and **Python-based data science/ML workflows**.
+
+I am a developer with a strong interest in combining **data, machine learning, and front-end engineering** to create useful and scalable solutions. I enjoy working on projects that require both analytical thinking and clean user-facing design.
+
+My current focus is on strengthening my foundations in machine learning while continuing to build modern, responsive front-end applications. I value clean code, logical architecture, and continuous learning.
 
 ---
 
-## Core Skills
+## Technical Skills
 
-### **Python & Data**
-- OOP (advanced)  
-- Pandas, NumPy  
-- Matplotlib  
-- scikit-learn (regression, preprocessing, model evaluation)
-- 
-### **Frontend Development**
-- React  
-- JavaScript (ES6+)  
-- HTML5 / CSS3
-- TailwindCSS
-- UI/UX fundamentals & responsive design
+### Python & Data Science
+- Advanced Object-Oriented Programming (OOP)
+- Pandas and NumPy for data manipulation
+- Matplotlib for data visualization
+- scikit-learn:
+  - Regression models
+  - Data preprocessing
+  - Model evaluation and validation
+- Jupyter Notebooks for experimentation and analysis
 
+### Front-end Development
+- React
+- JavaScript (ES6+)
+- HTML5 and CSS3
+- Tailwind CSS
+- Responsive design principles
+- UI/UX fundamentals
+
+### General Development
+- Git and GitHub
+- Problem-solving and debugging
+- Writing readable, maintainable code
+- Project-based learning
 
 ---
 
-## What I’m Working On
-- Machine learning projects (notebooks + models)   
-- Building out a more complete portfolio of IT + ML projects  
+## What I’m Currently Working On
+
+- Machine learning projects focused on real-world datasets
+- End-to-end ML pipelines (data preprocessing, training, evaluation)
+- Expanding my front-end portfolio with modern React-based projects
+- Improving software design and architecture skills
 
 ---
 
-## Contact Me
-**Email:** deadfrogexist@proton.me  
+## Goals
+
+- Secure an internship in software development, data science, or machine learning
+- Build production-ready projects that demonstrate real-world value
+- Continue developing strong foundations in both data and web technologies
 
 ---
 
-📍 *Open to internship opportunities in software development, data, and machine learning.*
+## Contact
+
+Email: deadfrogexist@proton.me
+
+---
+
+Open to internship opportunities in software development, data, and machine learning.
